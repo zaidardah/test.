@@ -1,0 +1,9 @@
+.courses {
+    background-color: aliceblue;
+    text-align: center;
+}
+.course {
+    display: inline-block;
+    width: 24.8%;
+    background-color: chartreuse;
+}
